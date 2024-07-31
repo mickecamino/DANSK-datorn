@@ -82,7 +82,7 @@ This system that I myself is using since some time now has a lot of advantages c
 * Extended addressing. SWTPC compatible
 * Use AM2764B Dyn-RAM controller
 
-## ** Specification for DC4 428k EPZROM board **
+## ** Specification for DC4 428k EPROM board **
 ![EPROM-board](/Images/DC4-428k-EPROM.jpg)
 * Use EPROMS 2664, 27128 or 27256
 * The board occupies only four bytes I/O at address $E030 - $E033
