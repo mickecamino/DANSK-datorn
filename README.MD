@@ -1,5 +1,5 @@
 # DANSK-datorn
-### This repository is for the DANSK-datorn - a FLEX 6809 compúter designed in Denmark.
+### This repository is for the DANSK-datorn - a FLEX 6809 computer designed in Denmark.
 
 Sadly the designer Hans Dalgaard passed away this year.  
 If you have any information about this computer, please contact me.
@@ -73,15 +73,12 @@ Systemet som jag själv f.ö. själv använder sedan en tid tillbaka har en rad 
 ## ** Specification for DC5 I/O board **
 
 * Two serial ports
- * 1 RS232C with handshaking - RTS, CTS, DTR, DCD, DSR and RxC
- * 1 RS232C with handshaking - RTS and CTS
- * Program-selectable baudrates between 50 - 19200 baud
-
+ - 1 RS232C with handshaking - RTS, CTS, DTR, DCD, DSR and RxC
+ - 1 RS232C with handshaking - RTS and CTS
+ - Program-selectable baudrates between 50 - 19200 baud
 * One parallel port
- * Centronics parallel printer interface
- * Two 16-bit timer
-
+ - Centronics parallel printer interface
+ - Two 16-bit timer
 * EPROM programmer
- * Programs 2732A, 2764, 27128 and 27256
-
+ - Programs 2732A, 2764, 27128 and 27256
 * Sounder for system bell
