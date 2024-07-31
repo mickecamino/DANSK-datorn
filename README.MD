@@ -1,5 +1,5 @@
 # DANSK-datorn
-### This repository is for the DANSK-datorn - a FLEX 6809 computer designed in Denmark.
+### This repository is for the DANSK-datorn, also known as danskdatorn or EPCUF (Enhanced Personal Computer Using FLEX) - a FLEX 6809 computer designed in Denmark.
 
 Sadly the designer Hans Dalgaard passed away this year.  
 If you have any information about this computer, please contact me.
