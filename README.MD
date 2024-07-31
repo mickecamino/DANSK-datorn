@@ -45,7 +45,7 @@ Systemet som jag själv f.ö. själv använder sedan en tid tillbaka har en rad 
 * Runs TSC FLEX09 operating system
 
 ## ** Specification for DC2 CRT-FLOPPY BOARD **
-
+![CRT-Floppy-board](/Images/DC2-CRT-Floppy.jpg)
 * CRT Video:
 * 2 MHz 68B45 CRT Controller displays 80 * 24 line via 2k om memory mapped RAM at location $E000 - $EFFF
 * Video drivers in DANBUG Monitor V.1.x emulate most functions of the SWTPC CT-82 terminal except graphic
@@ -58,20 +58,20 @@ Systemet som jag själv f.ö. själv använder sedan en tid tillbaka har en rad 
 * Fully buffered output and Schmitt trigger input buffers for the disk drive signals.
 
 ## ** Specification for DC3 256k Dynamic RAM board
-
+![RAM-board](/Images/DC3-256k-RAM.jpg)
 * Full 2 MHz operation with transparent on board refresh, runs continuously without cycle stretching or stealing.
 * Extended addressing. SWTPC compatible
 * Use AM2764B Dyn-RAM controller
 
 ## ** Specification for DC4 428k EPZROM board **
-
+![EPROM-board](/Images/DC4-428k-EPROM.jpg)
 * Use EPROMS 2664, 27128 or 27256
 * The board occupies only four bytes I/O at address $E030 - $E033
 * Move 64k to RAM in 0,5 seconds
 * Driver routines in DANBUG monitor V.1.0
 
 ## ** Specification for DC5 I/O board **
-
+![I/O-board](/Images/DC5-IO.jpg)
 * Two serial ports
   - 1 RS232C with handshaking - RTS, CTS, DTR, DCD, DSR and RxC
   - 1 RS232C with handshaking - RTS and CTS
