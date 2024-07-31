@@ -70,7 +70,6 @@ This system that I myself is using since some time now has a lot of advantages c
 * Video drivers in DANBUG Monitor V.1.x emulate most functions of the SWTPC CT-82 terminal except graphic
 * 4k EPROM character generator supports the full ASCII character set, enlarged ans semi-graphic characters
 * Composite Video output
-
 * Floppy
 * Double Density floppy disk controller for either 5" or 8" drives uses WD 2797
 * Single and double side, single and double density, up to four drives total
