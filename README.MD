@@ -14,11 +14,11 @@ From MPU-laren #3 - 1985
 
 ## NY FLEX DATOR
 
-Alla kanske inte har råd att gå över till ett nytt datorsystem eler kanske inte vill kasta alla sina gamla FLEX-program som man lagt ned mycket möda och tid på att skriva eller kopiera.
+Alla kanske inte har råd att gå över till ett nytt datorsystem eller kanske inte vill kasta alla sina gamla FLEX-program som man lagt ned mycket möda och tid på att skriva eller kopiera.
 För alla dessa har det ju inte hänt så mycket sedan RT-datorns tid.
 NU har det dock lossnat !!!!!
 PD68 har härmed nöjet att presentera den s.k. DANSK-datorn.
-Systemet som jag själv f.ö. själv använder sedan en tid tillbaka har en rad fördelar jämfört med RT-datorn, elle vad sägs om:
+Systemet som jag själv f.ö. själv använder sedan en tid tillbaka har en rad fördelar jämfört med RT-datorn, eller vad sägs om:
 
 * Kör med 2 MHz (dubbelt så snabbt som RT-datorn)
 * 256 kbyte minneskort (går att bygga ut till 1 Mbyte)
@@ -26,10 +26,29 @@ Systemet som jag själv f.ö. själv använder sedan en tid tillbaka har en rad 
 * Kör FLEX09 operativsystem
 * Hanterar direkt 4 st 1 Mbyte floppydrivar
 * Promkort med plats för 428 kbyte EPROM
-* Inbyggd CRT-kontroller MC68B45 (ingen yttre dyr terminal krävs utan endast videomonitor och tankgentbord)
+* Inbyggd CRT-kontroller MC68B45 (ingen yttre dyr terminal krävs utan endast videomonitor och tangentbord)
 * Endast 3 kort i enkelt europaformat krävs för at få en komplett dator
-* Krestkorten säljs lösa utan komponenter för att alla skall kunna köpa komponenter billigt på egen hand
+* Kretskorten säljs lösa utan komponenter för att alla skall kunna köpa komponenter billigt på egen hand
 * Centronics- eller V24- utgång till printer.
+
+## NEW FLEX COMPUTER
+
+Everyone may not afford to switch to a new computer system or they won't throw away all of their FLEX-software that they have spent money or time to write or copy. 
+For all of those, not much have happened since the release of the RT-datorn.
+NOW finally something have happened !!!!!
+PD68 has the pleasure to present the DANISH-computer (DANSK-datorn).
+This system that I myself is using since some time now has a lot of advantages compared to RT-datorn, or what about:
+
+* Runs at 2 MHz (twice as fast as RT-datorn)
+* 256 kbyte memory (expandable up to 1 Mbyte)
+* RAM-disc i.e. V-disc as standard
+* Runs FLEX09 operating system
+* Manages directly 4 of 1 Mbyte floppy drives
+* Prom board with up to 428 kbyte EPROM
+* Built in CRT-controller MC68B45 (no expensive external terminal required, just a video monitor and a keyboard)
+* Only 3 boards in simple Europe format required to get a complete computer
+* PCB's are sold without components, so that everyone can buy components as cheap as they can.
+* Centronics- or V24- output to printer.
 
 ## ** SPECIFICATION FOR DC1 CPU BOARD **
 ![CPU-board](/Images/DC1-CPU.jpg)
