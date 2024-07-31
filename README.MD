@@ -32,7 +32,7 @@ Systemet som jag själv f.ö. själv använder sedan en tid tillbaka har en rad 
 * Centronics- eller V24- utgång till printer.
 
 ## ** SPECIFICATION FOR DC1 CPU BOARD **
-
+![CPU-board](/Images/DC1-CPU.jpg)
 * 2 MHz 68B09E CPU
 * All CPU address, data and control lines are fully buffered
 * Page select registers alow memory expansion to 1 Mbyte RAM for virtual disk or printer buffer. Fully SWTPC compatible
