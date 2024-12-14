@@ -12,7 +12,7 @@ From MPU-laren #3 - 1985
         *                             *  
         ******   PRESS-STOPP   ********  
 
-## NY FLEX DATOR
+## NY FLEX DATOR (Swedish)
 
 Alla kanske inte har råd att gå över till ett nytt datorsystem eller kanske inte vill kasta alla sina gamla FLEX-program som man lagt ned mycket möda och tid på att skriva eller kopiera.
 För alla dessa har det ju inte hänt så mycket sedan RT-datorns tid.
@@ -31,7 +31,7 @@ Systemet som jag själv f.ö. själv använder sedan en tid tillbaka har en rad 
 * Kretskorten säljs lösa utan komponenter för att alla skall kunna köpa komponenter billigt på egen hand
 * Centronics- eller V24- utgång till printer.
 
-## NEW FLEX COMPUTER
+## NEW FLEX COMPUTER (English)
 
 Everyone may not afford to switch to a new computer system or they won't throw away all of their FLEX-software that they have spent money or time to write or copy. 
 For all of those, not much have happened since the release of the RT-datorn.
@@ -54,7 +54,7 @@ This system that I myself is using since some time now has a lot of advantages c
 ![CPU-board](/Images/DC1-CPU.jpg)
 * 2 MHz 68B09E CPU
 * All CPU address, data and control lines are fully buffered
-* Page select registers alow memory expansion to 1 Mbyte RAM for virtual disk or printer buffer. Fully SWTPC compatible
+* Page select registers allow memory expansion to 1 Mbyte RAM for virtual disk or printer buffer. Fully SWTPC compatible
 * 4k system monitor contains bootstrap loader and video drivers
 * 2k on-board static RAM
 * Buffered TTL serial port for keyboard with software baudrate
@@ -66,7 +66,7 @@ This system that I myself is using since some time now has a lot of advantages c
 ## ** Specification for DC2 CRT-FLOPPY BOARD **
 ![CRT-Floppy-board](/Images/DC2-CRT-Floppy.jpg)
 * CRT Video
-* 2 MHz 68B45 CRT Controller displays 80 * 24 line via 2k om memory mapped RAM at location $E000 - $EFFF
+* 2 MHz 68B45 CRT Controller displays 80 * 24 line via 2k of memory mapped RAM at location $E000 - $EFFF
 * Video drivers in DANBUG Monitor V.1.x emulate most functions of the SWTPC CT-82 terminal except graphic
 * 4k EPROM character generator supports the full ASCII character set, enlarged ans semi-graphic characters
 * Composite Video output
