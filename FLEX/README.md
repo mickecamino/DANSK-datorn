@@ -1,5 +1,5 @@
 # Flex Operating System for DANSK-datorn
-## Highly modified FLE
+## Highly modified FLEX
 DANSK-datorn uses a highly modified FLEX. I found the source code for it in the FLEX Archive BB166.DSK.  
 The disk image contain the following files.   
 File listings are as follow:  
